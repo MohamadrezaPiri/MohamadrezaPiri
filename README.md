@@ -1,7 +1,6 @@
 # 💫 About Me:
 Interested in learning Python, Django, and everything else related<br><br>
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamadreza-piri-63b283235) 
 
